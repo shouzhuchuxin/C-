@@ -1,0 +1,11 @@
+﻿  Contact.c
+D:\Users\86195\source\repos\Contact\Contact\Contact.c(125,10): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+D:\Users\86195\source\repos\Contact\Contact\Contact.c(125,10): message : 此参数由转换说明符使用
+D:\Users\86195\source\repos\Contact\Contact\Contact.c(127,10): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+D:\Users\86195\source\repos\Contact\Contact\Contact.c(127,10): message : 此参数由转换说明符使用
+D:\Users\86195\source\repos\Contact\Contact\Contact.c(129,10): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“const int *”
+D:\Users\86195\source\repos\Contact\Contact\Contact.c(131,10): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+D:\Users\86195\source\repos\Contact\Contact\Contact.c(131,10): message : 此参数由转换说明符使用
+D:\Users\86195\source\repos\Contact\Contact\Contact.c(133,10): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+D:\Users\86195\source\repos\Contact\Contact\Contact.c(133,10): message : 此参数由转换说明符使用
+  Contact.vcxproj -> D:\Users\86195\source\repos\Contact\Debug\contact.exe
